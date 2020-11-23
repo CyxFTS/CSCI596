@@ -6,8 +6,9 @@ Render FFT Ocean using Tessendorf’s model [Tessendorf 2001] with CUDA/MPI
 
 ### Ocean Data
 
-1. Displacement texture for vertex position
 ![image](https://github.com/CyxFTS/CSCI596/blob/main/displacement.jpg?raw=true)
+
+1. Displacement texture for vertex position
 2. Normal texture for vertex normal
 3. Jacobian texture for foam calculation
 
